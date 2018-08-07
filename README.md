@@ -1,8 +1,8 @@
-# activities
+# Activities
 Activities curriculum for Opportunity Through Data.
 
 
-Our lives as programmers summed up in two images... <br>
+## Our lives as programmers summed up in images... <br>
 
 ![alt text](https://pbs.twimg.com/media/DXTUePFXkAAIN0b.jpg)
 
